@@ -1,5 +1,2 @@
-@"
 __pycache__/
 *.pyc
-Model_pipeline.pkl
-"@ | Out-File -Encoding utf8 .gitignore
